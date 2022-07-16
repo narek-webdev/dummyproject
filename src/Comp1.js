@@ -2,7 +2,9 @@ import React from 'react'
 
 const Comp1 = () => {
     return (
-        <div>Items</div>
+        <div>
+            This is another branch
+        </div>
     )
 }
 
